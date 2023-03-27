@@ -1,10 +1,10 @@
 
-public class HelloWorld {
+ipublic class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("Hey World !");
-		System.out.println("Hello World !");
-		System.out.println("Hola !");
+		System.out.println("Ciao mondo !");
+		System.out.println("Hallo Welt !");
+		System.out.println("Hola Mundo !");
 	}
 
 }
